@@ -1,0 +1,41 @@
+body {
+    background-color: darkred;
+    color:white;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+h5 {
+    text-align: center;
+}
+p {
+    font-size: 16px;
+}
+.indent {
+    text-indent: 30px;
+}
+.quote {
+    font-size: 14px;
+    color: black;
+    text-align: right;
+}
+.example {
+    font-size: 18px;
+    text-indent: 30px;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quote2 {
+    display: inline;
+}
+.sources {
+    text-align: left;
+}
